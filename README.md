@@ -2,8 +2,8 @@
 Live Demo: https://rubanero14.github.io/Customers-CRUD-Fullstack-Demo
 
 $# This is fun take to test out my Full Stack ability. This prototype focuses on 3 main aspects in this Customer Information Management System:
-- Frontend Development - UI/UX Development 
-- RESTful API Develepment - CRUD Functionality 
+- Frontend Development - UI/UX Design & Development 
+- RESTful API Development - CRUD Functionality 
 - Persistent Data Storage - Filesystem or Database for data storage
 
 ## Tech Stack used: 
